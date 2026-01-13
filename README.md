@@ -18,7 +18,7 @@ The lab focuses on:
 
 ## Technologies Used
 - Oracle VirtualBox
-- Windows 11
+- Windows 11 
 - pfSense
 - Square POS (demo environment)
 - CSV transaction reporting
